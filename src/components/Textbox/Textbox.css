@@ -1,0 +1,19 @@
+.a {
+    margin: 24px 0;
+}
+
+.a label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+    text-align: left;
+}
+
+.a input {
+    width: 100%;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+}
